@@ -20,7 +20,7 @@ public class Main {
         Student students2 = new Student();
         Student students3 = new Student();
         students1.Imię = "Kuba";
-        students1.Nazwisko = "Wojewodzki";
+        students1.Nazwisko = "Wojewodzkii";
         students1.wiek = 60;
         students1.czyjestszczepiony = true;
         students1.displayInfo();
